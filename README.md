@@ -2,7 +2,7 @@
 
 ## Android App for Pain Position Image Classification based on TensorFlow v2
 
-This is an Android app for classifying pain position in an image stream, using a classifer model, built by using TensorFlow v2, MobileNet pre-built model, and some images grouped by pain positions.
+This is an Android app for classifying pain position in an image stream, using a classifier model, built by using TensorFlow v2, MobileNet pre-built model, and some images grouped by pain positions.
 
 It can continuously classify image frames received by the Android device's back camera. Inference is performed using the TensorFlow Lite Java API.
 
